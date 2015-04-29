@@ -1,0 +1,30 @@
+{
+  "name": "silence-chromium",
+  "version": "1.0.0",
+  "description": "Silence non-essential output from electron/chromium/etc.",
+  "main": "silence-chromium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "debug",
+    "verbose",
+    "log"
+  ],
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "license": "MIT",
+  "dependencies": {
+    "byline": "^4.2.1",
+    "epipebomb": "^0.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaugunderson/silence-chromium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/beaugunderson/silence-chromium/issues"
+  },
+  "homepage": "https://github.com/beaugunderson/silence-chromium#readme"
+}
